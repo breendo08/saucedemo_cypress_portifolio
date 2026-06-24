@@ -5,7 +5,7 @@ Suíte de testes automatizados end-to-end para o e-commerce de demonstração [S
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![GitHub Actions](https://github.com/breendo08/saucedemo_cypress_portifolio/blob/main/.github/workflows/cy.yml/badge.svg)
+![GitHub Actions](https://github.com/breendo08/saucedemo_cypress_portifolio/actions/workflows/cy.yml/badge.svg)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 ---
